@@ -1,6 +1,4 @@
-
 # Organizational Behaviour – An Introduction
-
 
 ## Outline
 
@@ -93,9 +91,6 @@
   - **Hugo Munsterberg (1863-1916)**: Research into industrial accidents and book "Psychology and Industrial Efficiency".
   - **World Wars**: Significant contributions to industrial psychology.
 
----
-
-## Historical Developments of OB (Continued)
 
 - **Scientific Management Movement**
   - **Frederick W. Taylor**: Four principles of scientific management:
@@ -105,9 +100,6 @@
     4. Divide work and responsibility among management and workers.
   - Incentives for increased productivity.
 
----
-
-## Historical Developments of OB (Continued)
 
 - **Human Relations Movement**
   - The great depression and its implications.
